@@ -1,2 +1,2 @@
 # Machine-learning
-自己的机器学习学习路径
+自己的python学习学习路径
